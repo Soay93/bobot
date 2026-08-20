@@ -1,1 +1,8 @@
-{}
+{
+  "version": "V5.4.4_STRICT_HIGHLIGHT_LEARNING",
+  "build": 1,
+  "sha256": "a1732b12fa639e4bc70f73e51e5cda1793b41de2ac11283d5efc5d0cecd9aceb",
+  "url": "https://github.com/Soay93/bobot/releases/tag/v2/Bobot.exe",
+  "signature": "eY622Z3zuUBzKEO7gfWiBJHAOy3Ec04fu36OnU+6idgU7XnCF/e4WvFpVHlCzlb8PUi8CxXmm04wI4GwWDT2Bw==",
+  "notes": "Mise à jour Test"
+}
