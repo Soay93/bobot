@@ -1,8 +1,8 @@
 {
   "version": "V5.4.4_STRICT_HIGHLIGHT_LEARNING",
-  "build": 10,
-  "sha256": "f9a1cf15b5b38fb35209c789480e018c9bd362db8837b22ae0def2777ae12b36",
+  "build": 11,
+  "sha256": "126e80746319e7ed0fc2620288e45b2475062d74a47e5e863f23b66285ac50b8",
   "url": "https://github.com/Soay93/bobot/releases/download/v2/Bobot.exe",
-  "signature": "zIfJcH7idE6XnqGY+Dtfb+6zxJUIrDjuaXZxf6buQxt9hBXjx/lKlF4XGTgRohTL2Vo59u5N6W8/J+hsUzYWAw==",
-  "notes": "mise à  jour combat"
+  "signature": "hOoj0xfjYqv6ABwU4wGxzT9WHN147jvF3pOVZ821VWFySvT9Agq1P642HYLuVIPyUrnZv1RWz66xbdCVZ60lCA==",
+  "notes": "mise à  jour "
 }
